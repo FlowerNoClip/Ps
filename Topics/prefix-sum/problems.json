@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum"
+  },
+  "updatedAt": "2026-06-18T02:51:53.784Z",
+  "problems": [
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "1480-running-sum-of-1d-array/",
+      "readmePath": "1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1480-running-sum-of-1d-array.cpp",
+          "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
+          "sha": "d13eec80b6f400cc4390a159e3b43ce3609b5a55",
+          "lastSyncedAt": "2026-06-18T02:51:53.784Z"
+        }
+      ]
+    }
+  ]
+}
