@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-06-18T06:12:19.288Z",
+  "updatedAt": "2026-06-18T09:19:50.199Z",
   "problems": [
     {
       "frontendId": "1",
@@ -22,7 +22,7 @@
           "filename": "0001-two-sum.cpp",
           "path": "0001-two-sum/0001-two-sum.cpp",
           "sha": "61df96ce9af4fba705afc164d773d42a98a6ff71",
-          "lastSyncedAt": "2026-06-18T06:12:19.288Z"
+          "lastSyncedAt": "2026-06-18T09:19:50.199Z"
         }
       ]
     }
