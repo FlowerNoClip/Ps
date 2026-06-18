@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-06-18T02:51:40.945Z",
-  "problems": []
+  "updatedAt": "2026-06-18T10:17:20.142Z",
+  "problems": [
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "0338-counting-bits/",
+      "readmePath": "0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0338-counting-bits.cpp",
+          "path": "0338-counting-bits/0338-counting-bits.cpp",
+          "sha": "913f32e4732924abfa1eacbb80e133f6594a941b",
+          "lastSyncedAt": "2026-06-18T10:17:20.142Z"
+        }
+      ]
+    }
+  ]
 }
