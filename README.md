@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 1 | 0 | 0 |
+| 2 | 2 | 0 | 0 |
 
 ## Activity
 
@@ -15,14 +15,16 @@
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-18 | 1 |
+| 2026-06-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Bit Manipulation | 1 | 100% |
-| Dynamic Programming | 1 | 100% |
+| Dynamic Programming | 2 | 100% |
+| Bit Manipulation | 1 | 50% |
+| Math | 1 | 50% |
+| Memoization | 1 | 50% |
 
 ## Topics
 
@@ -34,12 +36,14 @@
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
+| [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
