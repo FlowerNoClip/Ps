@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-06-18T11:04:10.729Z",
+  "updatedAt": "2026-06-18T11:13:37.107Z",
   "problems": [
     {
       "frontendId": "70",
@@ -82,7 +82,7 @@
           "filename": "0121-best-time-to-buy-and-sell-stock.cpp",
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.cpp",
           "sha": "b652a0eae43b61f980b8aa5591960ebfe9b5a53c",
-          "lastSyncedAt": "2026-06-18T11:04:10.729Z"
+          "lastSyncedAt": "2026-06-18T11:13:37.107Z"
         }
       ]
     },
