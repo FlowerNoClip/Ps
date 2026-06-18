@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-06-18T10:17:20.142Z",
+  "updatedAt": "2026-06-18T10:28:07.278Z",
   "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0070-climbing-stairs.cpp",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
+          "sha": "55119ef58c7e04b6506b9ebbe8ac76d3a8af3b82",
+          "lastSyncedAt": "2026-06-18T10:28:07.278Z"
+        }
+      ]
+    },
     {
       "frontendId": "338",
       "title": "Counting Bits",
