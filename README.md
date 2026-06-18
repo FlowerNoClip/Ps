@@ -48,4 +48,5 @@
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
+| [Two Pointers](Topics/two-pointers/) | 0 |
 <!---LeetHub Summary End-->
