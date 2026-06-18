@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 3 | 3 | 0 | 0 |
+| 4 | 4 | 0 | 0 |
 
 ## Activity
 
@@ -15,29 +15,29 @@
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-18 | 3 |
+| 2026-06-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 3 | 100% |
-| Array | 1 | 33% |
-| Bit Manipulation | 1 | 33% |
-| Math | 1 | 33% |
-| Memoization | 1 | 33% |
+| Dynamic Programming | 4 | 100% |
+| Array | 2 | 50% |
+| Bit Manipulation | 1 | 25% |
+| Math | 1 | 25% |
+| Memoization | 1 | 25% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
