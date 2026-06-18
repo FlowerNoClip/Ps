@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-06-18T02:51:53.784Z",
+  "updatedAt": "2026-06-18T06:12:24.669Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -22,7 +22,7 @@
           "filename": "1480-running-sum-of-1d-array.cpp",
           "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.cpp",
           "sha": "d13eec80b6f400cc4390a159e3b43ce3609b5a55",
-          "lastSyncedAt": "2026-06-18T02:51:53.784Z"
+          "lastSyncedAt": "2026-06-18T06:12:24.669Z"
         }
       ]
     }
