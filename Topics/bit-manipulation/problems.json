@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-06-22T07:22:12.307Z",
+  "updatedAt": "2026-06-22T11:38:35.441Z",
   "problems": [
     {
       "frontendId": "338",
@@ -43,6 +43,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
           "sha": "f81ef097223406814ac9e2da34b0cd35dc0f179d",
           "lastSyncedAt": "2026-06-22T07:22:12.307Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3954",
+      "title": "Sum of Compatible Numbers in Range I",
+      "slug": "sum-of-compatible-numbers-in-range-i",
+      "problemName": "3954-sum-of-compatible-numbers-in-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
+      "folderPath": "3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3954-sum-of-compatible-numbers-in-range-i.cpp",
+          "path": "3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.cpp",
+          "sha": "96cb4ab1a7099562f556dc9a75b8d39416785b19",
+          "lastSyncedAt": "2026-06-22T11:38:35.441Z"
         }
       ]
     }
