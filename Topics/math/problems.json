@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-22T10:35:11.534Z",
+  "updatedAt": "2026-06-22T10:54:58.161Z",
   "problems": [
     {
       "frontendId": "70",
@@ -63,6 +63,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "9e9b4d32d722e219dfa378e14992b0d626f45c4d",
           "lastSyncedAt": "2026-06-22T10:35:11.534Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1025",
+      "title": "Divisor Game",
+      "slug": "divisor-game",
+      "problemName": "1025-divisor-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisor-game/",
+      "folderPath": "1025-divisor-game/",
+      "readmePath": "1025-divisor-game/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1025-divisor-game.cpp",
+          "path": "1025-divisor-game/1025-divisor-game.cpp",
+          "sha": "da08b1ee72c593a9d6aea1ce594e8df16236ae22",
+          "lastSyncedAt": "2026-06-22T10:54:58.161Z"
         }
       ]
     },
