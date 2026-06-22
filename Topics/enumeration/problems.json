@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "enumeration",
+    "name": "Enumeration"
+  },
+  "updatedAt": "2026-06-22T11:38:35.441Z",
+  "problems": [
+    {
+      "frontendId": "3954",
+      "title": "Sum of Compatible Numbers in Range I",
+      "slug": "sum-of-compatible-numbers-in-range-i",
+      "problemName": "3954-sum-of-compatible-numbers-in-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
+      "folderPath": "3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3954-sum-of-compatible-numbers-in-range-i.cpp",
+          "path": "3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.cpp",
+          "sha": "96cb4ab1a7099562f556dc9a75b8d39416785b19",
+          "lastSyncedAt": "2026-06-22T11:38:35.441Z"
+        }
+      ]
+    }
+  ]
+}
