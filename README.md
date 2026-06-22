@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 3 | 3 | 0 | 0 |
+| 4 | 4 | 0 | 0 |
 
 ## Activity
 
@@ -17,17 +17,19 @@
 | --- | ---: |
 | 2026-06-17 | 1 |
 | 2026-06-18 | 1 |
-| 2026-06-22 | 1 |
+| 2026-06-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 67% |
-| Bit Manipulation | 1 | 33% |
-| Hash Table | 1 | 33% |
-| Math | 1 | 33% |
-| Prefix Sum | 1 | 33% |
+| Array | 2 | 50% |
+| Bit Manipulation | 1 | 25% |
+| Hash Table | 1 | 25% |
+| Linked List | 1 | 25% |
+| Math | 1 | 25% |
+| Prefix Sum | 1 | 25% |
+| Two Pointers | 1 | 25% |
 
 ## Topics
 
@@ -43,7 +45,7 @@
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 1 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 0 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -52,5 +54,5 @@
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
 | [String](Topics/string/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 0 |
+| [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
