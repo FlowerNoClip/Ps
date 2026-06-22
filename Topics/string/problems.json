@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-06-22T11:11:51.973Z",
+  "updatedAt": "2026-06-22T11:29:17.689Z",
   "problems": [
     {
       "frontendId": "383",
@@ -83,6 +83,26 @@
           "path": "1668-maximum-repeating-substring/1668-maximum-repeating-substring.cpp",
           "sha": "1f79718cb584d07d403e82bea3db785ea6ab9e81",
           "lastSyncedAt": "2026-06-22T11:11:51.973Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2900",
+      "title": "Longest Unequal Adjacent Groups Subsequence I",
+      "slug": "longest-unequal-adjacent-groups-subsequence-i",
+      "problemName": "2900-longest-unequal-adjacent-groups-subsequence-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/",
+      "folderPath": "2900-longest-unequal-adjacent-groups-subsequence-i/",
+      "readmePath": "2900-longest-unequal-adjacent-groups-subsequence-i/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "2900-longest-unequal-adjacent-groups-subsequence-i.cpp",
+          "path": "2900-longest-unequal-adjacent-groups-subsequence-i/2900-longest-unequal-adjacent-groups-subsequence-i.cpp",
+          "sha": "9ad4ef9b5ed36dd45a8a0b0114300fe3c8075913",
+          "lastSyncedAt": "2026-06-22T11:29:17.689Z"
         }
       ]
     }
