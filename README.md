@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 6 | 6 | 0 | 0 |
+| 7 | 7 | 0 | 0 |
 
 ## Activity
 
@@ -17,22 +17,22 @@
 | --- | ---: |
 | 2026-06-17 | 1 |
 | 2026-06-18 | 1 |
-| 2026-06-22 | 4 |
+| 2026-06-22 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 33% |
-| Hash Table | 2 | 33% |
-| String | 2 | 33% |
-| Two Pointers | 2 | 33% |
-| Bit Manipulation | 1 | 17% |
-| Counting | 1 | 17% |
-| Dynamic Programming | 1 | 17% |
-| Linked List | 1 | 17% |
-| Math | 1 | 17% |
-| Prefix Sum | 1 | 17% |
+| Array | 2 | 29% |
+| Dynamic Programming | 2 | 29% |
+| Hash Table | 2 | 29% |
+| Math | 2 | 29% |
+| String | 2 | 29% |
+| Two Pointers | 2 | 29% |
+| Bit Manipulation | 1 | 14% |
+| Counting | 1 | 14% |
+| Linked List | 1 | 14% |
+| Memoization | 1 | 14% |
 
 ## Topics
 
@@ -45,15 +45,16 @@
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Memoization](Topics/memoization/) | 1 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [simulation](Topics/simulation/) | 0 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
