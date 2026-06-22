@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-06-22T07:28:44.342Z",
+  "updatedAt": "2026-06-22T10:23:47.883Z",
   "problems": [
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "0392-is-subsequence/",
+      "readmePath": "0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0392-is-subsequence.cpp",
+          "path": "0392-is-subsequence/0392-is-subsequence.cpp",
+          "sha": "f817a08bc6d90c06e67fdd5fe9c6773aa76a37ab",
+          "lastSyncedAt": "2026-06-22T10:23:47.883Z"
+        }
+      ]
+    },
     {
       "frontendId": "876",
       "title": "Middle of the Linked List",
