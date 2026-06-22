@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-06-22T10:35:11.534Z",
+  "updatedAt": "2026-06-22T10:47:15.299Z",
   "problems": [
     {
       "frontendId": "70",
@@ -143,6 +143,26 @@
           "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
           "sha": "9e9b4d32d722e219dfa378e14992b0d626f45c4d",
           "lastSyncedAt": "2026-06-22T10:35:11.534Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "746",
+      "title": "Min Cost Climbing Stairs",
+      "slug": "min-cost-climbing-stairs",
+      "problemName": "0746-min-cost-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+      "folderPath": "0746-min-cost-climbing-stairs/",
+      "readmePath": "0746-min-cost-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0746-min-cost-climbing-stairs.cpp",
+          "path": "0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.cpp",
+          "sha": "d21404ecfd096041e670395e8234361078c2ad96",
+          "lastSyncedAt": "2026-06-22T10:47:15.299Z"
         }
       ]
     }
