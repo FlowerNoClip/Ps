@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 7 | 7 | 0 | 0 |
+| 8 | 8 | 0 | 0 |
 
 ## Activity
 
@@ -17,35 +17,35 @@
 | --- | ---: |
 | 2026-06-17 | 1 |
 | 2026-06-18 | 1 |
-| 2026-06-22 | 5 |
+| 2026-06-22 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 29% |
-| Dynamic Programming | 2 | 29% |
-| Hash Table | 2 | 29% |
-| Math | 2 | 29% |
-| String | 2 | 29% |
-| Two Pointers | 2 | 29% |
-| Bit Manipulation | 1 | 14% |
-| Counting | 1 | 14% |
-| Linked List | 1 | 14% |
-| Memoization | 1 | 14% |
+| Array | 3 | 38% |
+| Dynamic Programming | 3 | 38% |
+| Hash Table | 2 | 25% |
+| Math | 2 | 25% |
+| String | 2 | 25% |
+| Two Pointers | 2 | 25% |
+| Bit Manipulation | 1 | 13% |
+| Counting | 1 | 13% |
+| Linked List | 1 | 13% |
+| Memoization | 1 | 13% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 6 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
