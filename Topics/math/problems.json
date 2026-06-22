@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-18T10:28:07.278Z",
+  "updatedAt": "2026-06-22T07:19:18.312Z",
   "problems": [
     {
       "frontendId": "70",
@@ -23,6 +23,26 @@
           "path": "0070-climbing-stairs/0070-climbing-stairs.cpp",
           "sha": "55119ef58c7e04b6506b9ebbe8ac76d3a8af3b82",
           "lastSyncedAt": "2026-06-18T10:28:07.278Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0412-fizz-buzz.cpp",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
+          "sha": "9e82e4c8858fed6a04da534f630cd3346d3820e8",
+          "lastSyncedAt": "2026-06-22T07:19:18.312Z"
         }
       ]
     }
