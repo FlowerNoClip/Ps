@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 12 | 12 | 0 | 0 |
+| 13 | 13 | 0 | 0 |
 
 ## Activity
 
@@ -17,20 +17,20 @@
 | --- | ---: |
 | 2026-06-17 | 1 |
 | 2026-06-18 | 1 |
-| 2026-06-22 | 10 |
+| 2026-06-22 | 11 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 7 | 58% |
-| Array | 4 | 33% |
-| Math | 4 | 33% |
-| String | 4 | 33% |
-| Hash Table | 2 | 17% |
-| Memoization | 2 | 17% |
-| Two Pointers | 2 | 17% |
-| Bit Manipulation | 1 | 8% |
+| Dynamic Programming | 8 | 62% |
+| Array | 4 | 31% |
+| Math | 4 | 31% |
+| String | 4 | 31% |
+| Bit Manipulation | 2 | 15% |
+| Hash Table | 2 | 15% |
+| Memoization | 2 | 15% |
+| Two Pointers | 2 | 15% |
 | Brainteaser | 1 | 8% |
 | Counting | 1 | 8% |
 
@@ -42,11 +42,12 @@
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 12 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 13 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 1 |
