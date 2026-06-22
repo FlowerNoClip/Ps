@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-06-22T10:23:47.883Z",
+  "updatedAt": "2026-06-22T11:11:51.973Z",
   "problems": [
     {
       "frontendId": "383",
@@ -63,6 +63,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.cpp",
           "sha": "9e82e4c8858fed6a04da534f630cd3346d3820e8",
           "lastSyncedAt": "2026-06-22T07:19:18.312Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1668",
+      "title": "Maximum Repeating Substring",
+      "slug": "maximum-repeating-substring",
+      "problemName": "1668-maximum-repeating-substring",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-repeating-substring/",
+      "folderPath": "1668-maximum-repeating-substring/",
+      "readmePath": "1668-maximum-repeating-substring/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1668-maximum-repeating-substring.cpp",
+          "path": "1668-maximum-repeating-substring/1668-maximum-repeating-substring.cpp",
+          "sha": "1f79718cb584d07d403e82bea3db785ea6ab9e81",
+          "lastSyncedAt": "2026-06-22T11:11:51.973Z"
         }
       ]
     }
