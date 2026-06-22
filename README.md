@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 10 | 10 | 0 | 0 |
+| 11 | 11 | 0 | 0 |
 
 ## Activity
 
@@ -17,22 +17,22 @@
 | --- | ---: |
 | 2026-06-17 | 1 |
 | 2026-06-18 | 1 |
-| 2026-06-22 | 8 |
+| 2026-06-22 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Dynamic Programming | 5 | 50% |
-| Math | 4 | 40% |
-| Array | 3 | 30% |
-| Hash Table | 2 | 20% |
-| Memoization | 2 | 20% |
-| String | 2 | 20% |
-| Two Pointers | 2 | 20% |
-| Bit Manipulation | 1 | 10% |
-| Brainteaser | 1 | 10% |
-| Counting | 1 | 10% |
+| Dynamic Programming | 6 | 55% |
+| Math | 4 | 36% |
+| Array | 3 | 27% |
+| String | 3 | 27% |
+| Hash Table | 2 | 18% |
+| Memoization | 2 | 18% |
+| Two Pointers | 2 | 18% |
+| Bit Manipulation | 1 | 9% |
+| Brainteaser | 1 | 9% |
+| Counting | 1 | 9% |
 
 ## Topics
 
@@ -46,7 +46,7 @@
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 11 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 2 |
@@ -60,6 +60,7 @@
 | [simulation](Topics/simulation/) | 0 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 3 |
+| [String](Topics/string/) | 4 |
+| [String Matching](Topics/string-matching/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
