@@ -5,7 +5,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 4 | 4 | 0 | 0 |
+| 5 | 5 | 0 | 0 |
 
 ## Activity
 
@@ -17,19 +17,21 @@
 | --- | ---: |
 | 2026-06-17 | 1 |
 | 2026-06-18 | 1 |
-| 2026-06-22 | 2 |
+| 2026-06-22 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 2 | 50% |
-| Bit Manipulation | 1 | 25% |
-| Hash Table | 1 | 25% |
-| Linked List | 1 | 25% |
-| Math | 1 | 25% |
-| Prefix Sum | 1 | 25% |
-| Two Pointers | 1 | 25% |
+| Array | 2 | 40% |
+| Hash Table | 2 | 40% |
+| Bit Manipulation | 1 | 20% |
+| Counting | 1 | 20% |
+| Linked List | 1 | 20% |
+| Math | 1 | 20% |
+| Prefix Sum | 1 | 20% |
+| String | 1 | 20% |
+| Two Pointers | 1 | 20% |
 
 ## Topics
 
@@ -40,10 +42,11 @@
 | [Binary Search](Topics/binary-search/) | 0 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 5 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 3 |
@@ -53,6 +56,6 @@
 | [simulation](Topics/simulation/) | 0 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 1 |
+| [String](Topics/string/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 1 |
 <!---LeetHub Summary End-->
