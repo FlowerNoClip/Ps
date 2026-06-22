@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-06-22T10:23:47.883Z",
+  "updatedAt": "2026-06-22T10:31:01.190Z",
   "problems": [
     {
       "frontendId": "70",
@@ -123,6 +123,26 @@
           "path": "0392-is-subsequence/0392-is-subsequence.cpp",
           "sha": "f817a08bc6d90c06e67fdd5fe9c6773aa76a37ab",
           "lastSyncedAt": "2026-06-22T10:23:47.883Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "9e9b4d32d722e219dfa378e14992b0d626f45c4d",
+          "lastSyncedAt": "2026-06-22T10:31:01.190Z"
         }
       ]
     }
