@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-22T11:05:27.312Z",
+  "updatedAt": "2026-06-23T12:14:07.891Z",
   "problems": [
+    {
+      "frontendId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "problemName": "0009-palindrome-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+      "folderPath": "0009-palindrome-number/",
+      "readmePath": "0009-palindrome-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0009-palindrome-number.cpp",
+          "path": "0009-palindrome-number/0009-palindrome-number.cpp",
+          "sha": "ec2a5c389829b06b849d9708be45943978b2f0bb",
+          "lastSyncedAt": "2026-06-23T12:14:07.891Z"
+        }
+      ]
+    },
     {
       "frontendId": "70",
       "title": "Climbing Stairs",
